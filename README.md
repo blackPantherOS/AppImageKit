@@ -2,7 +2,7 @@
 
 Copyright (c) 2004-16 Simon Peter <probono@puredarwin.org> and contributors.
 
-Using AppImageKit you can package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives.
+Using AppImageKit you can package desktop applications as AppImages that run on common Linux-based operating systems, such as blackPanther OS, RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives.
 
 The __AppImage__ format is a format for packaging applications in a way that allows them to
 run on a variety of different target systems (base operating systems, distributions) without further modification. 
